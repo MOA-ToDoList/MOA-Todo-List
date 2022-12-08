@@ -8,4 +8,6 @@
     <string name="username_or_email">username or email</string>
     <string name="password">password</string>
     <string name="or_login_with">or login with</string>
+    <string name="username">username</string>
+    <string name="email">email</string>
 </resources>
