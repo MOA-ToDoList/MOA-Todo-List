@@ -12,4 +12,6 @@
     <string name="email">email</string>
     <string name="mark_as_done">Mark as done</string>
     <string name="set_reminder">Set reminder</string>
+    <string name="set_time">Set Time</string>
+    <string name="set_time_24h_format">Set Time (24H Format)</string>
 </resources>
