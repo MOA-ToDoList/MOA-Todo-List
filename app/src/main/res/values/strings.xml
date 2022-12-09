@@ -10,4 +10,6 @@
     <string name="or_login_with">or login with</string>
     <string name="username">username</string>
     <string name="email">email</string>
+    <string name="mark_as_done">Mark as done</string>
+    <string name="set_reminder">Set reminder</string>
 </resources>
