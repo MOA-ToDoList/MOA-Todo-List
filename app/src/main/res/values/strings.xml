@@ -14,4 +14,12 @@
     <string name="set_reminder">Set reminder</string>
     <string name="set_time">Set Time</string>
     <string name="set_time_24h_format">Set Time (24H Format)</string>
+    <string name="calendar">Calendar</string>
+    <string name="activity">Activity</string>
+    <string name="language">Language</string>
+    <string name="security">Security</string>
+    <string name="additional_information">Additional Information</string>
+    <string name="term_and_conditions">Term and Conditions</string>
+    <string name="app_version">App version</string>
+    <string name="logout">Logout</string>
 </resources>
